@@ -58,3 +58,6 @@
 ---
 
 _Thanks for visiting my profile!_
+
+# PokeDon Project
+This is the new version of the PokeDon project.
