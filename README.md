@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PokeDona</h1>
+<h1 align="center">Hi 👋, I'm Hamid Fida</h1>
 <h3 align="center">Backend Developer | API Designer | Automation Enthusiast</h3>
 
 ---
@@ -50,9 +50,8 @@
 ### 📫 Let’s Connect
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/yourhandle" target="_blank">Twitter</a> • 
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="https://www.upwork.com/freelancers/~0190d6c699bc8db146?mp_source=share" target="_blank">Upwordk</a> • 
+  <a href="mailto:hamidfidaflex1@gmail.com">Email</a>
 </p>
 
 ---
