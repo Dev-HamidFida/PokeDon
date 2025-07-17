@@ -8,7 +8,7 @@
 - 🌱 I’m diving deeper into **distributed systems, microservices, and container orchestration**  
 - 💬 Ask me about **Node.js, Express, REST APIs, PostgreSQL, MongoDB, Docker, GitHub Actions**  
 - ⚙️ I'm interested in open source, backend architecture, and high-performance systems  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **hamidfidaflex1@gmail.com**  
 - 🧩 Fun fact: I love solving real-world problems with code and automation!
 
 ---
